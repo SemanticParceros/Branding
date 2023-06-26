@@ -1,6 +1,6 @@
 # Semantic Parceros
 
-![Semantic Parceros Banner](banner/banner.jpg)
+![Semantic Parceros Banner](Banners/arpagon__Surrounding_the_tree_are_silhouettes_of_people_tree_ro_26949ad4-b93b-4bfb-b9b0-e063334d0f81.png)
 
 Welcome to **Semantic Parceros** GitHub repository, a passionate community centered on democratizing the knowledge of Artificial Intelligence (AI) and promoting the use of tools like Langchain, Hugging Face, ChatGPT, and many others.
 
