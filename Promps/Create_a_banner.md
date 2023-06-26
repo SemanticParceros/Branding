@@ -6,7 +6,6 @@ This particular repository is dedicated to all things related to branding and pr
 
 # Logo of Semantica Parceros Is:
 
-a tree with colored circles in a black background, in the style of simple, colorful illustrations, applecore, dark cyan and amber, rainbowcore, tasteful use of negative space, organic material, dotted
+a tree with colored circles, in the style of simple, colorful illustrations, applecore, dark cyan and amber, rainbowcore, tasteful use of negative space, organic material, dotted
 
-# Instruct
-Create a banner for uor community unsing midjourney --v 5.2
+Create a banner about build in public for the community using midjourney --v 5.2
